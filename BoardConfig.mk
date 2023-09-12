@@ -12,8 +12,6 @@ TARGET_INCLUDES_MIUI_CAMERA := true
 
 DEVICE_PATH := device/xiaomi/munch
 
-BUILD_BROKEN_DUP_RULES := true
-
 # Display
 TARGET_SCREEN_DENSITY := 440
 
